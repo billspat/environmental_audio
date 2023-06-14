@@ -1,1 +1,4 @@
+*.wav
+*.WAV
 .DS_Store
+.venv
